@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'MiFuente';
+    src: url('./assets/fuente/Game-of-thrones.ttf') format('truetype');
+}
+  
+body{
+    font-family: 'MiFuente', sans-serif;
+    padding: 0px;
+    margin: 0px;
+    background-color: black;
+    color:white;
+}
